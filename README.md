@@ -3,9 +3,9 @@ A list of blocked Websites in Nepal without any pornographic contents. To be rep
 
 | S.N | Name | Websites | ISP | Block Info | Date |
 |---|---|---|---|---| --- |
-| 1. | College Humor | http://www.collegehumor.com | WorldLink | http://blockdomain.worldlink.com.np | Oct 1, 2018|
+| 1. | College Humor | http://www.collegehumor.com | WorldLink, Classictech | http://blockdomain.worldlink.com.np | Oct 1, 2018|
 | 2. | Urban Dictionary | https://www.urbandictionary.com | WorldLink | No info | Oct 1, 2018|
-| 3. | eBaum's World | http://www.ebaumsworld.com/ | WorldLink | http://blockdomain.worldlink.com.np | Oct 5, 2018|
+| 3. | eBaum's World | http://www.ebaumsworld.com/ | WorldLink, Classictech | http://blockdomain.worldlink.com.np | Oct 5, 2018|
 
 
 **Currently i am compiling this list based on my usage with Worldlink Pvt. Ltd.**
